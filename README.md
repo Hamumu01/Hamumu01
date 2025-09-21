@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Muhammad Hayyan</h1>
 <h3 align="center">A passionate learner and aspiring Cloud Engineer from Aceh, Indonesia.</h3>
 
-<p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlkeDZwYm1xOXNudzJpYjNjczBvZ3pod2J2cHNoNWhhYnFkcml4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/99WDYnKHEhfizOW5N3/giphy.gif" width="250"></p>
+<p align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlkeDZwYm1xOXNudzJpYjNjczBvZ3pod2J2cHNoNWhhYnFkcml4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/99WDYnKHEhfizOW5N3/giphy.gif" width="100%"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamumu01&label=Profile%20views&color=0e75b6&style=flat" alt="hamumu01" /> </p>
 
