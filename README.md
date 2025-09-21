@@ -1,43 +1,71 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+<h1 align="center">Hi there 👋, I'm Muhammad Hayyan</h1>
+<h3 align="center">A passionate learner and aspiring Cloud Engineer from Aceh, Indonesia.</h3>
 
-<p>Welcome to my page! </br> I'm Hayyan, become a Fullstack developer <img src="https://www.flaticon.com/free-icon/indonesia_323372?term=indonesia&page=1&position=4&origin=search&related_id=323372" width="13"/> <b>Lorient, France</b>, currently living in <img src="" width="13"/> <b>Aceh, Indonesia</b>. </p>
-<h3>Things I code with</h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamumu01&label=Profile%20views&color=0e75b6&style=flat" alt="hamumu01" /> </p>
 
-<h3>Aceh Darusslam<img src="https://www.flaticon.com/free-icon/indonesia_323372" width="13"/> Indonesia</h3>
-<p><img width="200" src="https://www.instagram.com/wisataaceh/p/DN22TXI5kcJ/" /> <img width="200" src="https://www.instagram.com/wisataaceh/p/DN-LuHAEX2n/" />
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 4°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:39</b> and sets at <b>17:20</b>.</p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+---
+
+### 👨‍💻 About Me:
+- 🎓 I'm a student at **UIN Ar-Raniry Banda Aceh**, majoring in **Information Technology**.
+- 🌱 I’m currently learning and exploring the world of programming, focusing on web development.
+- 💻 I'm familiar with languages like **TypeScript, JavaScript, and Java**, and frameworks like **React, Next.js, and Tailwind CSS**.
+- 🚀 My goal is to become a great **Cloud Engineer**.
+-  hobbies that I have are exploring new things, and I also have a hobby of cycling and reading
+- 🎬 I'm also a beginner YouTuber.
+
+---
+
+### 🛠️ My Skills:
+Here are some of the technologies I've been working with:
+
+**Languages:**
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
 
-### Watch my contribution graph get eaten by the snake :snake:
+**Frontend & Styling:**
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+</p>
 
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/mishmanners/MishManners/blob/output/github-snake.svg)
+**Database:**
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+</p>
 
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 3 March, 07:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+**Tools & Version Control:**
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+</p>
+
+---
+
+### 🚀 My Featured Projects:
+- **[hyMuslim-V2-FINAL](https://github.com/Hamumu01/hyMuslim-V2-FINAL.git)**
+- **[obat-ingat-sehat](https://github.com/Hamumu01/obat-ingat-sehat.git)**
+- **[gelap-muda-coding-club](https://github.com/Hamumu01/gelap-muda-coding-club.git)**
+
+---
+
+### 📊 My GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamumu01&show_icons=true&theme=radical" alt="hamumu01" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamumu01&layout=compact&theme=radical" alt="hamumu01" />
+</p>
+
+---
+
+### 📫 How to reach me:
+<p align="left">
+  <a href="mailto:hyan50563@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.instagram.com/ahlimasakair"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
