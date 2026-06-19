@@ -1,37 +1,82 @@
 
-<h1 align="center">✨ Halo! Saya Muhammad Hayyan</h1>
-<h3 align="center">Cloud Enthusiast • Web Developer • Builder dari Aceh</h3>
+<h1 align="center">🕹️ HALO! SAYA MUHAMMAD HAYYAN</h1>
+<h3 align="center">Cloud Runner • Web Architect • Arcade Builder dari Aceh</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ghosh/uiGradients/master/gradients/8.jpeg" width="100%" alt="banner" />
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=hamumu01&label=Profile+views&color=0e75b6&style=flat"><img src="https://komarev.com/ghpvc/?username=hamumu01&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" /></a>
+  <a href="https://komarev.com/ghpvc/?username=hamumu01&label=PROFILE+VIEWS&color=0e75b6&style=flat"><img src="https://komarev.com/ghpvc/?username=hamumu01&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views" /></a>
   &nbsp;
   <a href="https://github.com/Hamumu01"><img src="https://img.shields.io/badge/GitHub-Hamumu01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-## 👋 Tentang Saya
-- 🎓 Mahasiswa **Teknologi Informasi** di **UIN Ar-Raniry Banda Aceh**
-- 💼 Profesional muda di **Kreya (PT. Teknologi Kretif Berkarya)**
-- 🌱 Fokus pada **Cloud Engineering**, **Web App Modern**, dan **DevOps**
-- 💡 Suka membuat solusi yang bersih, cepat, dan mudah dikembangkan
-- 🚀 Misi: Bangun aplikasi yang bermanfaat dan bisa diandalkan untuk banyak orang
+## ⚡ LEVEL 1: TENTANG SAYA
+<p align="center">
+  <code>PLAYER • HAYYAN</code>  &nbsp; | &nbsp; <code>CLASS • CLOUD ENGINEER</code>  &nbsp; | &nbsp; <code>REGION • ACEH</code>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-READY_for_BATTLE-21AB39?style=for-the-badge&logo=superuser&logoColor=white" alt="Ready" />
+  <img src="https://img.shields.io/badge/XP-LEVEL_11-7B61FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="XP" />
+  <img src="https://img.shields.io/badge/GAMEPLAN-AUTO_DEPLOY-FF5C8A?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gameplan" />
+</p>
+
+- 🎓 **Mahasiswa TI** di **UIN Ar-Raniry Banda Aceh**
+- 💼 **Developer & Cloud Engineer** di **Kreya (PT. Teknologi Kretif Berkarya)**
+- 🌱 Sangat suka memecahkan masalah dengan **kode bersih**, **desain modern**, dan **sistem terotomasi**
+- 🔥 Saya menciptakan pengalaman digital yang **cepat**, **stabil**, dan **mudah di-scale**
+- 🛡️ Misi: Bikin aplikasi yang bisa melakukan lebih banyak dengan lebih sedikit usaha
 
 ---
 
-## 🌟 Fokus Saat Ini
-- Mengembangkan aplikasi dengan **Next.js**, **React**, dan **TypeScript**
-- Membangun pipeline otomatis dan deployment ke **cloud**
-- Meningkatkan kemampuan di **AWS / Azure / Google Cloud**
-- Menyelesaikan proyek nyata yang membantu produktivitas dan edukasi
+## 🎮 POWER-UPS & FOKUS SAAT INI
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-02_ACTIVE-FFB703?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/MODE-ARCADERETRO-00B8D9?style=for-the-badge&logo=arcade&logoColor=white" alt="Mode" />
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">✨ PROJECT QUIEST</h4>
+      <ul>
+        <li>Build aplikasi **Next.js + React + TypeScript** dengan UX yang smooth</li>
+        <li>Buat UI & UX dengan gaya modern tapi ringan seperti game arcade</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">⚡ CLOUD DASH</h4>
+      <ul>
+        <li>Bangun **pipeline otomatis** untuk deploy cepat ke **cloud**</li>
+        <li>Optimalkan infrastruktur agar bisa **scale** tanpa lag</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🚀 SKILL BOOST</h4>
+      <ul>
+        <li>Upgrade kemampuan di **AWS / Azure / Google Cloud**</li>
+        <li>Pelajari arsitektur microservice dan automation</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🎯 MISSION MODE</h4>
+      <ul>
+        <li>Selesaikan proyek produktivitas & edukasi dengan impact nyata</li>
+        <li>Kolaborasi, eksperimen, dan publish solusi yang ringan & cepat</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Skill Utama
+## 🕹️ SKILL UTAMA
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
@@ -51,7 +96,7 @@
 
 ---
 
-## 🚀 Proyek Unggulan
+## 🚀 PROYEK UGULAN
 | Nama Proyek | Deskripsi Singkat | Link |
 |---|---|---|
 | **hyMuslim-V2-FINAL** | Aplikasi companion Muslim modern untuk produktivitas spiritual | [Lihat](https://github.com/Hamumu01/hyMuslim-V2-FINAL) |
@@ -60,7 +105,7 @@
 
 ---
 
-## 📈 Statistik GitHub
+## 📈 SCOREBOARD GITHUB
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hamumu01&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
@@ -69,7 +114,7 @@
 
 ---
 
-## 📫 Hubungi Saya
+## 📫 CONNECT
 <p align="center">
   <a href="mailto:hyan50563@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/hamumu01" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
