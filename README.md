@@ -11,7 +11,7 @@
 
 ### `> INITIALIZING PROFILE... LOADING HAYYAN.EXE`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%94%A7;Web+Architect+%F0%9F%8C%90;AI+%26+Claude+Enthusiast+%F0%9F%A4%96;Builder+from+Aceh+%F0%9F%87%AE%F0%9F%87%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Junior+System+Administrator+%F0%9F%96%A5%EF%B8%8F;Junior+Developer+%F0%9F%94%A7;n8n+Workflow+Automation+%E2%9A%A1;AI+%26+Claude+Enthusiast+%F0%9F%A4%96;Builder+from+Aceh+%F0%9F%87%AE%F0%9F%87%A9)](https://git.io/typing-svg)
 
 <a href="https://komarev.com/ghpvc/?username=hamumu01"><img src="https://komarev.com/ghpvc/?username=hamumu01&label=PROFILE+VIEWS&color=7B61FF&style=flat-square" /></a>
 &nbsp;
@@ -28,23 +28,24 @@
 ```yaml
 name: Muhammad Hayyan
 alias: Hamumu01
+born: 13 February 2006
 role:
-  - Cloud Engineer @ Kreya (PT. Teknologi Kreatif Berkarya)
-  - Fullstack Developer
+  - Junior System Administrator (Part-Time) @ Kreya (PT. Teknologi Kreatif Berkarya)
+  - Junior Developer
   - Student — Teknik Informatika, UIN Ar-Raniry Banda Aceh
 location: Banda Aceh, Aceh, Indonesia 🌴
 currently_building:
-  - Next.js + React apps with seamless UX
-  - Automated cloud deployment pipelines
-  - AI-powered productivity tools
-obsessions:
-  - Clean code over clever code
-  - Systems that scale without breaking a sweat
-  - Shipping fast without shipping bugs
+  - Automated workflows & system integrations with n8n
+  - Reliable server infrastructure & deployment pipelines
+  - Responsive web apps with Next.js & React
+obsessions_and_hobbies:
+  - Clean code & stable server uptime
   - Prompt engineering & Claude AI workflows
+  - Bibliophile & Tech Literature Exploration 📚
+  - Cinephile & Visual Storytelling Enthusiast 🎬
 mission: >
-  Build digital experiences that are fast, stable, and scalable —
-  with less code, more impact.
+  Maintain reliable systems, automate repetitive workflows, and build
+  digital experiences that are fast, stable, and impactful.
 ```
 
 ---
@@ -54,6 +55,8 @@ mission: >
 ### ⚡ Frontend
 
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -69,22 +72,22 @@ mission: >
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### ☁️ Cloud & DevOps
+### 🖥️ System Admin, Cloud & DevOps
 
 <p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### 🤖 AI & Tools
+### 🤖 Automation, AI & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -111,20 +114,20 @@ mission: >
 
 ---
 
-## 🤖 On AI & Claude
+## 🤖 On AI, Automation & Claude
 
-> Saya percaya bahwa **AI bukan pengganti developer** — AI adalah **power-up terbaik** bagi developer yang tahu cara memakainya.
+> Saya percaya bahwa **AI dan otomasi bukan pengganti engineer** — keduanya adalah **power-up terbaik** bagi developer dan sysadmin yang tahu cara merancangnya.
 >
-> Saya secara aktif mengintegrasikan **Claude AI** ke dalam workflow pengembangan saya: mulai dari code review, arsitektur sistem, debugging, hingga penulisan dokumentasi. Bagi saya, prompt engineering adalah skill engineering juga.
+> Saya secara aktif mengintegrasikan **Claude AI** dan **n8n** ke dalam workflow harian saya: mulai dari otomasi proses sistem, code review, debugging, hingga penulisan dokumentasi.
 
 ```python
-# How I work with AI
+# How I work with AI & Automation
 workflow = {
+    "automation":  "n8n untuk integrasi sistem & otomasi tugas berulang",
     "ideation":    "Claude untuk brainstorm arsitektur & edge cases",
     "development": "Kode saya → Claude review → iterasi cepat",
-    "debugging":   "Trace logic bareng AI, fix lebih cepat",
-    "docs":        "Auto-generate, lalu saya polish",
-    "principle":   "AI amplifies the engineer, not replaces them"
+    "debugging":   "Trace logic & log server bareng AI, fix lebih cepat",
+    "principle":   "AI & Automation amplify the engineer, not replace them"
 }
 ```
 
@@ -148,8 +151,8 @@ workflow = {
 
 ```
 > "Build with purpose. Learn every day. Ship fast."
-> "Code is craft. Cloud is canvas. AI is the force multiplier."
-> — Hayyan, somewhere in Aceh, probably debugging at 2AM
+> "Code is craft. Systems are backbone. AI & Automation are the force multipliers."
+> — Hayyan, somewhere in Aceh, probably configuring servers or debugging at 2AM
 ```
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,20&height=100&section=footer)
